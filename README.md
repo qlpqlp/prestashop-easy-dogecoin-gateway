@@ -15,6 +15,6 @@ Easy Dogecoin Gateway for Prestashop
 
 2- Go to your Prestashop Backoffice ```Modules->Module Manager```and on click on top right ```Upload Module``` select your file and let it finish
 
-3- Click on Configure and ass your Dogecoin Address and/or your Twitter Username connected to the MyDoge Wallets and/or Sodoge Wallet
+3- Click on Configure and add your Dogecoin Address and/or your Twitter Username connected to the MyDoge Wallets and/or Sodoge Wallet
 
 enjoys your sells in Dogecoin with auto convert Fiat prices into Doge :P
