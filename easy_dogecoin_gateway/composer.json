@@ -1,0 +1,19 @@
+{
+  "name": "easy_dogecoin_gateway_gateway",
+  "description": "Accept Dogecoin Payments simply by using your Dogecoin Address or your Twitter account connected to the mydoge.com or sodogetip.xyz Wallets without the need of any third party payment processor, banks or extra fees. Your store, your wallet, your Doge.",
+  "homepage": "https://github.com/qlpqlp/Prestashop-Easy-Dogecoin-Gateway",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "Inevitable360",
+      "email": "inevitable360@what-is-dogecoin.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "type": "prestashop-module"
+}

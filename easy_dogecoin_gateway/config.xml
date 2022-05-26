@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>easy_dogecoin_gateway</name>
+    <displayName><![CDATA[Easy Dogecoin Gateway]]></displayName>
+    <version><![CDATA[69.420.0]]></version>
+    <description><![CDATA[Accept Dogecoin Payments simply by using your Dogecoin Address or your Twitter account connected to the mydoge.com or sodogetip.xyz.]]></description>
+    <author><![CDATA[Inevitavle360]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[Are you sure about removing these details?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>

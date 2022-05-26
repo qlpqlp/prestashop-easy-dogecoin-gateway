@@ -1,0 +1,29 @@
+{$shop_url|escape:'html':'UTF-8'}
+
+Hello {$firstname|escape:'html':'UTF-8'} {$lastname|escape:'html':'UTF-8'},
+
+Thank you for shopping at {$shop_name|escape:'html':'UTF-8'}! 
+
+Your order with instruction {$order_name|escape:'html':'UTF-8'} was placed with
+and will be DISPATCHED SOON AS PAYMENT IS RECEIVED..
+
+You chose to pay in Dogecoin.
+
+These are the payment details in Dogecoiny:
+
+
+{dogecoinaddress|escape:'html':'UTF-8'}
+
+You can review your order and download your invoice
+"Order history" {$history_url|escape:'html':'UTF-8'} of your
+client account by clicking "My account"
+{$my_account_url|escape:'html':'UTF-8'} in our store. 
+
+If you have a visitor account, you can track your order on
+"Visitor's orders" {$guest_tracking_url|escape:'html':'UTF-8'} gives
+our store.. 
+
+{$shop_name|escape:'html':'UTF-8'} {$shop_url|escape:'html':'UTF-8'} 
+use the platform
+PrestaShop(tm) { http://www.prestashop.com/ |escape:'html':'UTF-8'}
+
