@@ -1,5 +1,5 @@
 <h1 align="center">
-DogeGarden
+Easy Dogecoin Gateway for Prestashop
 <br><br>
 <img src="https://dogegarden.io/img/prestashop2.png" alt="Acept Dogecoin Payments using simple your Dogecoin Address without the need of any third party payment processor, banks, extra fees | Your Store, your wallet, your Doge."/>
 <br>
