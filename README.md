@@ -1,8 +1,12 @@
 <h1 align="center">
 DogeGarden
 <br><br>
+<img src="https://dogegarden.io/img/prestashop2.png" alt="Acept Dogecoin Payments using simple your Dogecoin Address without the need of any third party payment processor, banks, extra fees | Your Store, your wallet, your Doge."/>
+<br>
 <img src="https://dogegarden.io/img/prestashop1.png" alt="Acept Dogecoin Payments using simple your Dogecoin Address without the need of any third party payment processor, banks, extra fees | Your Store, your wallet, your Doge."/>
-<br><br>
+  <br>
+<img src="https://dogegarden.io/img/prestashop3.png" alt="Acept Dogecoin Payments using simple your Dogecoin Address without the need of any third party payment processor, banks, extra fees | Your Store, your wallet, your Doge."/>
+  <br>  
 </h1>
 
 ## How to Install 💻
